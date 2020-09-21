@@ -10,11 +10,5 @@ public class App
     {
 
         System.out.println( "Hello World!" );
-        System.out.println( "Hello World!" );
-        System.out.println( "Release1" );
-        System.out.println( "Develop change" );
-        System.out.println( "Release1 change" );
-        System.out.println( "Hotfix change" );
-        System.out.println( "Faeture 2" );
     }
 }
